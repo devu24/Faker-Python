@@ -179,4 +179,3 @@ Explore the examples in this repository, try them out, and adapt them to your ow
 
 ---
 
-This structured guide will provide a comprehensive resource on GitHub, helping others understand the potential of the Faker library and how to apply it effectively in their own projects.
